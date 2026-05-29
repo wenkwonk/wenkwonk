@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! My name is Alan and I currently study Statistics and Machine Learning at Carnegie Mellon University.
 
-<!--
-**wenkwonk/wenkwonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I primarily focus on computer vision and machine learning with applications in biology. Outside of programming, I enjoy watching the NBA, playing video games, and playing pick-up basketball.
 
-Here are some ideas to get you started:
+I am currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ AI SWE Intern@ Netramind Innovations
++ Undergrad Research Assistant @ Bridges Lab, CMU dept. biological sciences
+
+I was previously:
+
++ Research Assistant @ Okuro Lab, HKU dept. chemistry
++ Tartanhacks 2026 AppLovin' Track 1st Place
