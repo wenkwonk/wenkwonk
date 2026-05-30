@@ -9,5 +9,5 @@ I am currently:
 
 I was previously:
 
-+ Research Assistant @ Okuro Lab, HKU dept. chemistry
++ Research Assistant Intern @ Okuro Lab, HKU dept. chemistry
 + Tartanhacks 2026 AppLovin' Track 1st Place
