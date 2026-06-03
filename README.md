@@ -4,7 +4,7 @@ I primarily focus on computer vision and machine learning with applications in b
 
 I am currently:
 
-+ AI SWE Intern@ Netramind Innovations
++ AI SWE Intern @ Netramind Innovations
 + Undergrad Research Assistant @ Bridges Lab, CMU dept. biological sciences
 
 I was previously:
